@@ -1,13 +1,4 @@
-h2, h3 {
-    margin: 10px;
-    font-size: 18px;
-}
-
-h3 {
-    font-size: 16px;
-}
-
-p {
+h3, h4, p {
     margin: 10px;
 }
 
@@ -36,7 +27,7 @@ p {
 
 #features {
     top: 0;
-    height: 180px;
+    height: 220px;
     margin-top: 20px;
     width: 250px;
 }
