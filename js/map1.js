@@ -60,6 +60,6 @@ map.on('mousemove', ({point}) => {
         layers: ['rates-layer']
     });
     document.getElementById('text-description').innerHTML = state.length ?
-        `<h3>${state[0].properties.county}</h3><h2>${state[0].properties.state}</h2><p><strong><em>${state[0].properties.rates}</strong> cases per 1000 residents</em></p>` :
+        `<h3>County: ${state[0].properties.county}</h3><h2>State: ${state[0].properties.state}</h2><p><strong><em>${state[0].properties.rates}</strong> cases per 1000 residents</em></p>` :
         `<p>Hover over a county!</p>`;
 });
