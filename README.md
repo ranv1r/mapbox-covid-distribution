@@ -11,7 +11,7 @@ These maps can be used by healthcare workers, people who are planning to move, c
 
 ![The map of proportional distribution of COVID cases](img/cases-1.png)
 
-This map of the contiguous USA depicts the the impact of COVID-19 for every county. It plots the number of cases in each county. You can access the dynamic version of this map [here](./map2.html).
+This map of the contiguous USA depicts the the impact of COVID-19 for every county. It plots the number of cases in each county. You can access the dynamic version of this map [here](https://ranv1r.github.io/mapbox-covid-distribution/map2.html).
 
 #### Functions
  - This map depcits each counties cases by circles. The larger the circle, the higher the cases in that county. The hue and opacity of the circle change with the cases as well.
