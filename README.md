@@ -9,7 +9,7 @@ A set of two maps visualizing Covid 19 cases in 2020 across US Census counties t
 This map of the contiguous USA depicts the amount of cases per 1000 residents for each county. The darker the hue, the higher the case rates in that county. You can access the dynamic version of this map [here](https://ranv1r.github.io/mapbox-covid-distribution/map1.html).
 
 ###### Functions
- - This map depcits each counties cases by polygon. The hue and opacity of the polygon changes with the case density as well.
+ - This map depicts each counties cases by polygon. The hue and opacity of the polygon changes with the case density as well.
  - When you hover over a particular county, details of that county show up under the title.
  ![County on Hover showing details in overlay](./img/rates-2.png)
 
